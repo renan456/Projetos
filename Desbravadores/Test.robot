@@ -21,7 +21,7 @@ CT002 - Quem são os Desbravadores?
     Click Link                      xpath=//a[@href="https://clubes.adventistas.org/br/about-pathfinder/"]
     Page Should Contain             Vibram com atividades 
     
-CT003 - Quem são os Desbravadores?
+CT003 - Cadastro no Site?
     Click Link                      xpath=//a[@href="https://eventosja.adventistas.org/br/"]
     Maximize Browser Window
     Click Link                      xpath=//a[@href="https://eventosja.adventistas.org/br/event/s-ja/16199/mmo/"]
